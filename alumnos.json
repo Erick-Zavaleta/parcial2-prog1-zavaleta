@@ -1,0 +1,23 @@
+[
+    {
+        "dni": 38209505,
+        "nombre": "Pedro",
+        "apellido": "Lopez",
+        "edad": 25,
+        "nota": 8.0
+    },
+    {
+        "dni": 32406505,
+        "nombre": "Luis",
+        "apellido": "Gonzales",
+        "edad": 30,
+        "nota": 6.0
+    },
+    {
+        "dni": 37429298,
+        "nombre": "Victoria",
+        "apellido": "Rodriguez",
+        "edad": 27,
+        "nota": 9.0
+    }
+]
